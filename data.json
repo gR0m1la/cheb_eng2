@@ -1,139 +1,133 @@
 [
   {
-    "title": "Подводный мир",
-    "description": "Разнообразие жизни в океанах, их обитатели и особенности морской флоры и фауны.",
+    "title": "Эмоции",
+    "description": "Различные эмоциональные состояния и выражения.",
     "words": [
       {
-        "word": "Coral",
-        "translation": "Коралл",
-        "usage_example": "The Great Barrier Reef is known for its vast coral formations.",
-        "usage_example_translation": "Большой Барьерный риф известен своими обширными коралловыми образованиями."
+        "word": "Joy",
+        "translation": "Радость",
+        "usage_example": "She couldn't hide her joy when she received the good news.",
+        "usage_example_translation": "Она не могла скрыть радость, когда получила хорошие новости."
       },
       {
-        "word": "Shark",
-        "translation": "Акула",
-        "usage_example": "Sharks have a reputation for being fierce predators.",
-        "usage_example_translation": "Акулы имеют репутацию свирепых хищников."
+        "word": "Sadness",
+        "translation": "Грусть",
+        "usage_example": "He felt a deep sense of sadness after the loss of his beloved pet.",
+        "usage_example_translation": "Он почувствовал глубокую грусть после потери своего любимого питомца."
       },
       {
-        "word": "Dolphin",
-        "translation": "Дельфин",
-        "usage_example": "Dolphins are highly intelligent marine mammals.",
-        "usage_example_translation": "Дельфины - очень умные морские млекопитающие."
+        "word": "Anger",
+        "translation": "Гнев",
+        "usage_example": "His face turned red with anger when he heard the disrespectful comments.",
+        "usage_example_translation": "Его лицо покраснело от гнева, когда он услышал неуважительные комментарии."
       },
       {
-        "word": "Tide",
-        "translation": "Прилив",
-        "usage_example": "The tide is high, let's go for a swim.",
-        "usage_example_translation": "Прилив высокий, пошли купаться."
+        "word": "Surprise",
+        "translation": "Удивление",
+        "usage_example": "She couldn't hide her surprise when she saw her friends at the party.",
+        "usage_example_translation": "Она не могла скрыть своего удивления, когда увидела своих друзей на вечеринке."
       },
       {
-        "word": "Algae",
-        "translation": "Водоросли",
-        "usage_example": "Algae play a crucial role in oceanic ecosystems.",
-        "usage_example_translation": "Водоросли играют важную роль в океанических экосистемах."
+        "word": "Fear",
+        "translation": "Страх",
+        "usage_example": "The child clung to his mother in fear during the thunderstorm.",
+        "usage_example_translation": "Ребенок прижался к матери в страхе во время грозы."
       },
       {
-        "word": "Octopus",
-        "translation": "Осьминог",
-        "usage_example": "An octopus can escape predators by releasing ink.",
-        "usage_example_translation": "Осьминог может убежать от хищников, выпустив чернила."
+        "word": "Love",
+        "translation": "Любовь",
+        "usage_example": "They expressed their love for each other through kind gestures.",
+        "usage_example_translation": "Они выражали свою любовь друг к другу добрыми жестами."
       },
       {
-        "word": "Submarine",
-        "translation": "Подводная лодка",
-        "usage_example": "The submarine dived deep to explore the ocean floor.",
-        "usage_example_translation": "Подводная лодка погрузилась на большую глубину, чтобы исследовать дно океана."
+        "word": "Disgust",
+        "translation": "Отвращение",
+        "usage_example": "The smell of rotten food filled her with disgust.",
+        "usage_example_translation": "Запах гнилой пищи наполнил ее отвращением."
       },
       {
-        "word": "Anchor",
-        "translation": "Якорь",
-        "usage_example": "The ship dropped its anchor near the shore.",
-        "usage_example_translation": "Корабль опустил якорь у берега."
+        "word": "Excitement",
+        "translation": "Возбуждение",
+        "usage_example": "She couldn't contain her excitement before the big trip.",
+        "usage_example_translation": "Она не могла сдержать свое возбуждение перед большой поездкой."
       },
       {
-        "word": "Seaweed",
-        "translation": "Морская трава",
-        "usage_example": "Seaweed is often used in Asian cuisine.",
-        "usage_example_translation": "Морская трава часто используется в азиатской кухне."
+        "word": "Happiness",
+        "translation": "Счастье",
+        "usage_example": "The laughter of children filled the air with happiness.",
+        "usage_example_translation": "Смех детей наполнил воздух счастьем."
       },
       {
-        "word": "Abyss",
-        "translation": "Бездна",
-        "usage_example": "The deep sea abyss is home to many strange creatures.",
-        "usage_example_translation": "В глубоководной бездне обитает множество странных существ."
+        "word": "Confusion",
+        "translation": "Смущение",
+        "usage_example": "His sudden departure left everyone in confusion.",
+        "usage_example_translation": "Его внезапный уход оставил всех в смущении."
       }
     ]
   },
   {
-    "title": "Космические путешествия",
-    "description": "Исследование космоса, космические корабли, астронавты и технологии, позволяющие путешествовать за пределы Земли.",
+    "title": "Погода",
+    "description": "Различные аспекты погоды и ее явления.",
     "words": [
       {
-        "word": "Spaceship",
-        "translation": "Космический корабль",
-        "usage_example": "The spaceship is ready to launch into orbit.",
-        "usage_example_translation": "Космический корабль готов к запуску на орбиту."
+        "word": "Sunshine",
+        "translation": "Солнечный свет",
+        "usage_example": "The sunshine warmed her face on the cold winter morning.",
+        "usage_example_translation": "Солнечный свет согрел ее лицо в холодное зимнее утро."
       },
       {
-        "word": "Astronaut",
-        "translation": "Астронавт",
-        "usage_example": "The astronaut is training for the next space mission.",
-               "usage_example_translation": "Астронавт тренируется для следующей космической миссии."
+        "word": "Rain",
+        "translation": "Дождь",
+        "usage_example": "The rain poured down heavily, flooding the streets.",
+        "usage_example_translation": "Дождь лил сильно, затопляя улицы."
       },
       {
-        "word": "Galaxy",
-        "translation": "Галактика",
-        "usage_example": "Our solar system is located in the Milky Way galaxy.",
-        "usage_example_translation": "Наша солнечная система находится в галактике Млечный Путь."
+        "word": "Snow",
+        "translation": "Снег",
+        "usage_example": "The children built a snowman with the freshly fallen snow.",
+        "usage_example_translation": "Дети построили снеговика из свежевыпавшего снега."
       },
       {
-        "word": "Rocket",
-        "translation": "Ракета",
-        "usage_example": "The rocket blasted off carrying satellites into space.",
-        "usage_example_translation": "Ракета стартовала, вынося спутники в космос."
+        "word": "Wind",
+        "translation": "Ветер",
+        "usage_example": "The strong wind blew leaves off the trees.",
+        "usage_example_translation": "Сильный ветер сдул листья с деревьев."
       },
       {
-        "word": "Black Hole",
-        "translation": "Черная дыра",
-        "usage_example": "A black hole has a gravitational pull that not even light can escape.",
-        "usage_example_translation": "Черная дыра имеет гравитационное притяжение, от которого не может уйти даже свет."
+        "word": "Clouds",
+        "translation": "Облака",
+        "usage_example": "Dark clouds gathered in the sky before the storm.",
+        "usage_example_translation": "Темные облака собрались на небе перед бурей."
       },
       {
-        "word": "Orbit",
-        "translation": "Орбита",
-        "usage_example": "The satellite entered a stable orbit around the Earth.",
-        "usage_example_translation": "Спутник вышел на стабильную орбиту вокруг Земли."
+        "word": "Fog",
+        "translation": "Туман",
+        "usage_example": "The dense fog made it difficult to see ahead.",
+        "usage_example_translation": "Густой туман затруднил видимость впереди."
       },
       {
-        "word": "Meteor",
-        "translation": "Метеор",
-        "usage_example": "A meteor shower is a celestial event where numerous meteors are observed to radiate.",
-        "usage_example_translation": "Метеорный дождь - это небесное явление, при котором наблюдается излучение множества метеоров."
+        "word": "Thunderstorm",
+        "translation": "Гроза",
+        "usage_example": "The thunderstorm rumbled in the distance, signaling the approaching rain.",
+        "usage_example_translation": "Гроза грохотала вдали, предвещая приближение дождя."
       },
       {
-        "word": "Telescope",
-        "translation": "Телескоп",
-        "usage_example": "Astronomers use telescopes to observe distant galaxies.",
-        "usage_example_translation": "Астрономы используют телескопы для наблюдения за далекими галактиками."
+        "word": "Rainbow",
+        "translation": "Радуга",
+        "usage_example": "After the rain, a beautiful rainbow appeared in the sky.",
+        "usage_example_translation": "После дождя на небе появилась красивая радуга."
       },
       {
-        "word": "Gravity",
-        "translation": "Гравитация",
-        "usage_example": "Gravity is what keeps us grounded on Earth.",
-        "usage_example_translation": "Гравитация - это то, что удерживает нас на Земле."
+        "word": "Hail",
+        "translation": "Град",
+        "usage_example": "The hailstones pelted down from the sky, damaging the crops.",
+        "usage_example_translation": "Градинки падали с неба, повреждая урожай."
       },
       {
-        "word": "Space Suit",
-        "translation": "Скафандр",
-        "usage_example": "The astronaut put on her space suit before the spacewalk.",
-        "usage_example_translation": "Астронавт надел скафандр перед выходом в открытый космос."
-      },
-      {
-        "word": "Nebula",
-        "translation": "Туманность",
-        "usage_example": "The Orion Nebula is one of the brightest nebulae visible to the naked eye in the night sky.",
-        "usage_example_translation": "Туманность Ориона - одна из самых ярких туманностей, видимых невооруженным глазом в ночном небе."
+        "word": "Temperature",
+        "translation": "Температура",
+        "usage_example": "The temperature dropped below freezing overnight.",
+        "usage_example_translation": "Температура опустилась ниже нуля ночью."
       }
     ]
   }

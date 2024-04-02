@@ -2,28 +2,28 @@
 
 start_reply_keyboard_markup = {
     "keyboard": [
-        ["Запустить тест", "Узнать свою статистику", "Настройка параметров"]
+        ["Начать тест", "Статистика", "Параметры"]
     ],
     "resize_keyboard": True
 }
 
 startTest_reply_keyboard_markup = {
     "keyboard": [
-        ["Завершить сейчас", "Посмотреть пример"]
+        ["Завершить тест", "Показать пример"]
     ],
     "resize_keyboard": True
 }
 
 setTopic_reply_keyboard = {
     "keyboard": [
-        ["Отменить настройку темы"]
+        ["Отменить настройки темы"]
     ],
     "resize_keyboard": True
 }
 
 setQuestionsNumber_reply_keyboard_markup = {
     "keyboard": [
-        ["Отменить настройку количества вопросов"]
+        ["Отменить настройку кол-ва вопросов"]
     ],
     "resize_keyboard": True,
     "input_field_placeholder": "Введите количество вопросов"
@@ -31,7 +31,7 @@ setQuestionsNumber_reply_keyboard_markup = {
 
 setCorrectAnswersNumber_reply_keyboard_markup = {
     "keyboard": [
-        ["Отменить настройку количества правильных ответов"]
+        ["Отменить настройку кол-ва правильных ответов"]
     ],
     "resize_keyboard": True,
     "input_field_placeholder": "Введите количество правильных ответов"
@@ -48,7 +48,7 @@ reminder_inline_keyboard_markup = {
 # Команды меню
 menu_reply_keyboard_markup = {
     "keyboard": [
-        ["Выбрать тему", "Количество вопросов", "Количество правильных ответов"]
+        ["Выбрать тему", "Кол-во вопросов", "Кол-во правильных ответов"]
     ],
     "resize_keyboard": True
 }
